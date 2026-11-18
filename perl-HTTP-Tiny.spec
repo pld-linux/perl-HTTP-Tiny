@@ -7,13 +7,13 @@
 Summary:	HTTP::Tiny - A small, simple, correct HTTP/1.1 client
 Summary(pl.UTF-8):	HTTP::Tiny - mały, prosty, poprawny klient HTTP/1.1
 Name:		perl-HTTP-Tiny
-Version:	0.090
+Version:	0.096
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	https://www.cpan.org/modules/by-module/HTTP/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9fa1ba04f168c57f5aca78ab3e1f8fb2
+Source0:	https://www.cpan.org/modules/by-authors/id/H/HA/HAARG/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	7a2c39293ccd0e0b3fd8d065f5b6ba3c
 URL:		https://metacpan.org/dist/HTTP-Tiny
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.17
 BuildRequires:	perl-devel >= 1:5.8.0
